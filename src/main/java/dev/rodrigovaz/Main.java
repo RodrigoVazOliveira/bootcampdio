@@ -15,8 +15,6 @@ public class Main {
 			proximo = anterior + atual;
 			anterior = atual;
 			atual = proximo;
-
-			
 		}
 	}
 }
