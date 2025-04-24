@@ -29,5 +29,6 @@ public class ApplicatioMainSet {
         // ordernar filmes por tempo de episodio
         Set<Serie> serieSorted = new TreeSet<>(series);
         serieSorted.forEach(System.out::println);
+       System.out.println("Olá");
     }
 }
